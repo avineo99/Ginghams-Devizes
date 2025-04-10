@@ -205,22 +205,13 @@ h1,
   border-color: #b0bdae;
 }
 
-/* .scroll header {
-    position: sticky;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 99;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-} */
+
 
 .navbar-brand, .site-logo a {
   display: inline-block;
   width: 379px;
 }
-/* .scroll .site-logo, .scroll .navbar-brand{
-    width: 150px;
-} */
+
 .top-bottom ul li a, .footer-social ul li a{
   height: 40px;
   width: 40px;
