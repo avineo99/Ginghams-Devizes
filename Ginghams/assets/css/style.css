@@ -346,9 +346,6 @@ footer.bg-secondary{
   border-color: #B0BDAE;
   box-shadow: none;
 }
-.form-control::placeholder {
-  color: #000;
-}
 @media(max-width:1500px){
   .navbar-brand, .site-logo a {
     width: 320px;
