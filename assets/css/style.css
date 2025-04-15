@@ -349,6 +349,9 @@ footer.bg-secondary{
 .form-control::placeholder {
   color: #000;
 }
+.wel-img {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
 @media(max-width:1500px){
   .navbar-brand, .site-logo a {
     width: 320px;
